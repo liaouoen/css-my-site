@@ -1,0 +1,39 @@
+.top-container {
+  background-color: #DBE2EF;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 100px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+p {
+  font-size: x-large;
+  font-family: 'Sacramento', cursive;
+}
+
+.star1 {
+  width: 60px;
+  position: absolute;
+  top: 50px;
+  right: 33%;
+}
+
+.star2 {
+  width: 55px;
+  position: absolute;
+  top: 170px;
+  left: 35%;
+}
+
+.top-photo {
+  width: 500px;
+  margin-top: 0px;
+  padding-top: 0;
+}
